@@ -2,3 +2,5 @@ Bytecode
 Nativecode
 Variable
 Method
+Class
+Object
